@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color:aqua;
+    margin-top: 50px;
+}
+
+.Sudacao {
+    color: rgb(31, 4, 129);
+}
+
